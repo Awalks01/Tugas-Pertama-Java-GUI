@@ -1,0 +1,4 @@
+# PROGRAM-PERTAMA-GUI-NETBEANS
+NIM   : 10118300
+NAMA  : Awaludin Pamungkas
+KELAS : IF-7
